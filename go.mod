@@ -22,3 +22,5 @@ require (
 	k8s.io/component-base v0.21.0 // indirect
 	sigs.k8s.io/controller-runtime v0.8.3
 )
+
+replace github.com/goccy/kubejob => github.com/zoncoen/kubejob v0.0.0-20230816174056-9ef94255d1aa
